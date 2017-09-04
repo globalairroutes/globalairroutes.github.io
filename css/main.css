@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Kreon:700');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 
 /* Reset */
@@ -377,9 +379,16 @@
 
 /* Header */
 
+  #header .signoff {
+    font-size: 2em;
+    font-family: 'Kaushan Script', cursive;
+    color: rgba(255, 255, 255, 0.8);
+  }
+
 	#header h1 {
 		font-size: 3.25em;
 		margin: 0 0 0.55em 0;
+    font-family: 'Kreon', serif;
 	}
 
 	#header p {
