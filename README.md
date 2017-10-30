@@ -1,6 +1,6 @@
 # Web
 
-Website for [Global Air Routes](https://globalairroutes.com/).
+Placeholder website for [Global Air Routes](https://globalairroutes.com/).
 
 ### Credits
 * Eventually by HTML5 UP<br>
