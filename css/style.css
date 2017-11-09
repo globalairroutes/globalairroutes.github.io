@@ -547,6 +547,12 @@ ul.dropdown-menu li {
 }
 /*-- //services --*/
 /*-- gallery --*/
+.gallery {
+  background: #e7eff2;
+}
+.w3-gallery-top {
+  right: 0;
+}
 .grid {
   position: relative;
   clear: both;
@@ -657,7 +663,7 @@ figure.effect-apollo:hover p {
 .w3-testimonial-top h3 {
   color: rgba(255, 255, 255, 0.23);
 }
-.w3-testimonial-top,.w3-team-top {
+.w3-team-top {
   right: 0;
 }
 .testimonial-img-grid {
