@@ -509,16 +509,12 @@
                 // Slideshow 4
                 $("#slider3").responsiveSlides({
                   auto: true,
-                  pager:false,
-                  nav:false,
-                  speed: 500,
-                  namespace: "callbacks",
-                  before: function () {
-                    $(".events").append("<li>before event fired.</li>");
-                  },
-                  after: function () {
-                    $(".events").append("<li>after event fired.</li>");
-                  }
+                  pager: true,
+                  nav: false,
+                  speed: 1000,
+                  timeout: 5000,
+                  pause: true,
+                  namespace: "callbacks"
                 });
               });
             </script>
