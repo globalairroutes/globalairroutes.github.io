@@ -55,7 +55,7 @@ body {
 }
 .w3layouts-logo h1 a {
   color: #4DD0E1;
-  font-size: 1.5em;
+  font-size: 1.2em;
   text-decoration: none;
   font-family: 'Monoton', cursive;
 }
@@ -1521,7 +1521,7 @@ i.fa.fa-quote-right {
 }
 @media(max-width:414px) {
   .w3layouts-logo h1 a {
-    font-size: 1.2em;
+    font-size: 1em;
   }
   .agileits-banner-info h4, .agileits-banner-info1 h4, .agileits-banner-info2 h4, .agileits-banner-info3 h4, .agileits-banner-info4 h4 {
     letter-spacing: 9px;
@@ -1651,7 +1651,7 @@ i.fa.fa-quote-right {
 }
 @media(max-width:320px) {
   .w3layouts-logo h1 a {
-    font-size: .9em;
+    font-size: .8em;
   }
   .header-right {
     margin: 1em 0 0 0;
