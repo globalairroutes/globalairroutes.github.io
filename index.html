@@ -33,7 +33,7 @@
 <!-- font -->
 <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet">
-<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i" rel="stylesheet" type="text/css">
 <!-- //font -->
 <script src="js/jquery-1.11.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
@@ -41,7 +41,7 @@
   jQuery(document).ready(function($) {
     $(".scroll").click(function(event){
       event.preventDefault();
-      $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+      $("html,body").animate({scrollTop:$(this.hash).offset().top},1000);
     });
   });
 </script>
@@ -119,10 +119,10 @@
             speed: 2000,
             namespace: "callbacks",
             before: function () {
-              $('.events').append("<li>before event fired.</li>");
+              $(".events").append("<li>before event fired.</li>");
             },
             after: function () {
-              $('.events').append("<li>after event fired.</li>");
+              $(".events").append("<li>after event fired.</li>");
             }
           });
         });
@@ -515,10 +515,10 @@
                   speed: 500,
                   namespace: "callbacks",
                   before: function () {
-                    $('.events').append("<li>before event fired.</li>");
+                    $(".events").append("<li>before event fired.</li>");
                   },
                   after: function () {
-                    $('.events').append("<li>after event fired.</li>");
+                    $(".events").append("<li>after event fired.</li>");
                   }
                 });
               });
@@ -598,14 +598,14 @@
     $(document).ready(function() {
       /*
         var defaults = {
-        containerID: 'toTop', // fading element id
-        containerHoverID: 'toTopHover', // fading element hover id
+        containerID: "toTop", // fading element id
+        containerHoverID: "toTopHover", // fading element hover id
         scrollSpeed: 1200,
-        easingType: 'linear'
+        easingType: "linear"
         };
       */
 
-      $().UItoTop({ easingType: 'easeOutQuart' });
+      $().UItoTop({ easingType: "easeOutQuart" });
 
       });
   </script>
