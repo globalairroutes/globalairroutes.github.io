@@ -57,7 +57,7 @@ body {
   color: #4DD0E1;
   font-size: 1.5em;
   text-decoration: none;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Monoton', cursive;
 }
 .w3layouts-logo h1 a span {
   font-size: .35em;
@@ -486,10 +486,9 @@ ul.dropdown-menu li {
   color: #000000;
   font-size: 3em;
   margin: 0;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Monoton', cursive;
   text-align: center;
-    /*text-transform: uppercase;*/
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: 5px;
 }
 .w3ls-about-info {
@@ -777,7 +776,7 @@ i.fa.fa-quote-right {
 .modal-header h4 {
   text-align: center;
   color: #000000;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Monoton', cursive;
   font-size: 2em;
   font-weight: 700;
   text-transform: uppercase;
@@ -1033,7 +1032,7 @@ i.fa.fa-quote-right {
   color: #000000;
   font-size: 1em;
   margin: 2em 0;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Monoton', cursive;
 }
 .agileinfo-social-grids ul {
   padding: 0;
