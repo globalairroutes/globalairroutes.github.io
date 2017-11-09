@@ -211,7 +211,7 @@ ul.dropdown-menu li {
   text-align: center;
   padding: 15em 0 7em;
 }
-.agileits-banner-info h3 {
+.agileits-banner-info h3,.agileits-banner-info1 h3,.agileits-banner-info2 h3,.agileits-banner-info3 h3,.agileits-banner-info4 h3 {
   color: #4DD0E1;
   font-size: 35em;
   margin: 0;
@@ -219,58 +219,32 @@ ul.dropdown-menu li {
   font-weight: 700;
   text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
+}
+.agileits-banner-info h3 {
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent), url(../images/1a.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
 .agileits-banner-info1 h3 {
-  color: #4DD0E1;
-  font-size: 35em;
-  margin: 0;
-  line-height: .8em;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent), url(../images/2a.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
 .agileits-banner-info2 h3 {
-  color: #4DD0E1;
-  font-size: 35em;
-  margin: 0;
-  line-height: .8em;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent), url(../images/3a.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
 .agileits-banner-info3 h3 {
-  color: #4DD0E1;
-  font-size: 35em;
-  margin: 0;
-  line-height: .8em;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent), url(../images/4a.jpg) repeat -144px -107px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
 .agileits-banner-info4 h3 {
-  color: #4DD0E1;
-  font-size: 35em;
-  margin: 0;
-  line-height: .8em;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent), url(../images/5a.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
