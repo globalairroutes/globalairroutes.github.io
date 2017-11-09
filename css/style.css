@@ -779,7 +779,7 @@ i.fa.fa-quote-right {
   color: #000000;
   font-family: 'Monoton', cursive;
   font-size: 2em;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   margin: 0;
   letter-spacing: 2px;
@@ -788,12 +788,6 @@ i.fa.fa-quote-right {
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
   font-size: .6em;
-}
-.modal-header h5 {
-  margin: 1em 0;
-  color: #999999;
-  font-size: 1em;
-  text-align: center;
 }
 .modal-body p {
   margin: 1em 0 0 0;
