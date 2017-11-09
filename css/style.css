@@ -525,7 +525,7 @@ ul.dropdown-menu li {
 .agileits-services-grids,.gallery-grids,.w3-agile-testimonial,.wthree-news-grids,.agile-team-grids,.w3-agile-subscribe {
   margin: 4em 0 0 0;
 }
-.agileits-services-grid i.fa.fa-bus,.agileits-services-grid i.fa.fa-credit-card,.agileits-services-grid i.fa.fa-gift,.agileits-services-grid i.fa.fa-plane,.agileits-services-grid i.fa.fa-subway,.agileits-services-grid i.fa.fa-ship {
+.agileits-services-grid i.fa.fa-plane,.agileits-services-grid i.fa.fa-bed,.agileits-services-grid i.fa.fa-car,.agileits-services-grid i.fa.fa-camera-retro,.agileits-services-grid i.fa.fa-ship,.agileits-services-grid i.fa.fa-phone {
   color: #000000;
   font-size: 2em;
 }
