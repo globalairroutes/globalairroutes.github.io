@@ -1104,6 +1104,9 @@ i.fa.fa-quote-right {
 }
 /*-- //map --*/
 /*-- contact --*/
+.w3-contact-top {
+  right: 0;
+}
 .agile-contact-grids {
   margin: 4em 0 0 0;
 }
