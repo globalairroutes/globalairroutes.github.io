@@ -13,12 +13,12 @@ body {
   background: #FFFFFF;
 }
 /*-- banner-top --*/
-.w3layouts-banner-top {
-  background: url(../images/1.jpg) no-repeat 0px 0px;
+.w3layouts-banner-top-A {
+  background: url(../images/AA.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
-.w3layouts-banner-top1 {
-  background: url(../images/2.jpg) no-repeat 0px 0px;
+.w3layouts-banner-top-B {
+  background: url(../images/BB.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 /*-- //banner-top --*/
@@ -195,11 +195,11 @@ ul.dropdown-menu li {
 .w3layouts-banner-slider {
   margin: 8em 0;
 }
-.agileits-banner-info,.agileits-banner-info1,.agileits-banner-info2,.agileits-banner-info3,.agileits-banner-info4 {
+.agileits-banner-info-A,.agileits-banner-info-B {
   text-align: center;
   padding: 15em 0 7em;
 }
-.agileits-banner-info h3,.agileits-banner-info1 h3,.agileits-banner-info2 h3,.agileits-banner-info3 h3,.agileits-banner-info4 h3 {
+.agileits-banner-info-A h3,.agileits-banner-info-B h3 {
   color: #4DD0E1;
   font-size: 35em;
   margin: 0;
@@ -208,19 +208,20 @@ ul.dropdown-menu li {
   text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
 }
-.agileits-banner-info h3 {
+.agileits-banner-info-A h3 {
   -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent), url(../images/1a.jpg) repeat 0px 0px;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/A.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
-.agileits-banner-info1 h3 {
+.agileits-banner-info-B h3 {
   -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent), url(../images/2a.jpg) repeat 0px 0px;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/B.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
-.agileits-banner-info h4,.agileits-banner-info1 h4 {
+
+.agileits-banner-info-A h4,.agileits-banner-info-B h4 {
   color: #FFFFFF;
   font-size: 7em;
   margin: 0;
