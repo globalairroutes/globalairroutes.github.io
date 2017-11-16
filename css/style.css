@@ -14,11 +14,11 @@ body {
 }
 /*-- banner-top --*/
 .w3layouts-banner-top-A {
-  background: url(../images/AA.jpg) no-repeat 0px 0px;
+  background: url(../images/slideshow/AA.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 .w3layouts-banner-top-B {
-  background: url(../images/BB.jpg) no-repeat 0px 0px;
+  background: url(../images/slideshow/BB.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 /*-- //banner-top --*/
@@ -210,13 +210,13 @@ ul.dropdown-menu li {
 }
 .agileits-banner-info-A h3 {
   -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent), url(../images/A.jpg) repeat 0px 0px;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/A.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
 .agileits-banner-info-B h3 {
   -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent), url(../images/B.jpg) repeat 0px 0px;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/B.jpg) repeat 0px 0px;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
