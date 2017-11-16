@@ -13,9 +13,6 @@ body {
   background: #FFFFFF;
 }
 /*-- banner-top --*/
-.w3layouts-banner-top {
-  height: 100vh;
-}
 .w3layouts-banner-top-A {
   background: url(../images/slideshow/AA.jpg) no-repeat 0px 0px;
   background-size: cover;
@@ -288,7 +285,7 @@ ul.dropdown-menu li {
 }
 .agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
   text-align: center;
-  padding: 10em 0 7em;
+  padding: 15em 0 7em;
 }
 .agileits-banner-info-A h3, .agileits-banner-info-B h3, .agileits-banner-info-C h3, .agileits-banner-info-D h3, .agileits-banner-info-E h3, .agileits-banner-info-F h3, .agileits-banner-info-G h3, .agileits-banner-info-H h3, .agileits-banner-info-I h3, .agileits-banner-info-K h3, .agileits-banner-info-L h3, .agileits-banner-info-M h3, .agileits-banner-info-N h3, .agileits-banner-info-O h3, .agileits-banner-info-P h3, .agileits-banner-info-R h3, .agileits-banner-info-S h3, .agileits-banner-info-T h3, .agileits-banner-info-U h3, .agileits-banner-info-V h3, .agileits-banner-info-W h3, .agileits-banner-info-X h3, .agileits-banner-info-Y h3, .agileits-banner-info-Z h3 {
   color: #4DD0E1;
@@ -1518,7 +1515,7 @@ i.fa.fa-quote-right {
     z-index: 9991;
   }
   .agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
-    padding: 11em 0 5em;
+    padding: 12em 0 5em;
   }
   .agileits-banner-info-A h4, .agileits-banner-info-B h4, .agileits-banner-info-C h4, .agileits-banner-info-D h4, .agileits-banner-info-E h4, .agileits-banner-info-F h4, .agileits-banner-info-G h4, .agileits-banner-info-H h4, .agileits-banner-info-I h4, .agileits-banner-info-K h4, .agileits-banner-info-L h4, .agileits-banner-info-M h4, .agileits-banner-info-N h4, .agileits-banner-info-O h4, .agileits-banner-info-P h4, .agileits-banner-info-R h4, .agileits-banner-info-S h4, .agileits-banner-info-T h4, .agileits-banner-info-U h4, .agileits-banner-info-V h4, .agileits-banner-info-W h4, .agileits-banner-info-X h4, .agileits-banner-info-Y h4, .agileits-banner-info-Z h4 {
     font-size: 5em;
@@ -1557,10 +1554,7 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:640px) {
-  .agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
-    padding: 15em 0 5em;
-  }
-  .agileits-banner-info-A h3, .agileits-banner-info-B h3, .agileits-banner-info-C h3, .agileits-banner-info-D h3, .agileits-banner-info-E h3, .agileits-banner-info-F h3, .agileits-banner-info-G h3, .agileits-banner-info-H h3, .agileits-banner-info-I h3, .agileits-banner-info-K h3, .agileits-banner-info-L h3, .agileits-banner-info-M h3, .agileits-banner-info-N h3, .agileits-banner-info-O h3, .agileits-banner-info-P h3, .agileits-banner-info-R h3, .agileits-banner-info-S h3, .agileits-banner-info-T h3, .agileits-banner-info-U h3, .agileits-banner-info-V h3, .agileits-banner-info-W h3, .agileits-banner-info-X h3, .agileits-banner-info-Y h3, .agileits-banner-info-Z h3 {
+  .agileits-banner-info-A h3, .agileits-banner-info-B h3 {
     font-size: 20em;
   }
   .flip-container, .back {
@@ -1582,9 +1576,6 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:568px) {
-  .agileits-banner-info-A h4, .agileits-banner-info-B h4, .agileits-banner-info-C h4, .agileits-banner-info-D h4, .agileits-banner-info-E h4, .agileits-banner-info-F h4, .agileits-banner-info-G h4, .agileits-banner-info-H h4, .agileits-banner-info-I h4, .agileits-banner-info-K h4, .agileits-banner-info-L h4, .agileits-banner-info-M h4, .agileits-banner-info-N h4, .agileits-banner-info-O h4, .agileits-banner-info-P h4, .agileits-banner-info-R h4, .agileits-banner-info-S h4, .agileits-banner-info-T h4, .agileits-banner-info-U h4, .agileits-banner-info-V h4, .agileits-banner-info-W h4, .agileits-banner-info-X h4, .agileits-banner-info-Y h4, .agileits-banner-info-Z h4 {
-    font-size: 4em;
-  }
   .flip-container, .back {
     height: 347px;
   }
@@ -1602,9 +1593,6 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:480px) {
-  .agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
-    padding: 16em 0 5em;
-  }
   .agileits-banner-info-A h3, .agileits-banner-info-B h3, .agileits-banner-info-C h3, .agileits-banner-info-D h3, .agileits-banner-info-E h3, .agileits-banner-info-F h3, .agileits-banner-info-G h3, .agileits-banner-info-H h3, .agileits-banner-info-I h3, .agileits-banner-info-K h3, .agileits-banner-info-L h3, .agileits-banner-info-M h3, .agileits-banner-info-N h3, .agileits-banner-info-O h3, .agileits-banner-info-P h3, .agileits-banner-info-R h3, .agileits-banner-info-S h3, .agileits-banner-info-T h3, .agileits-banner-info-U h3, .agileits-banner-info-V h3, .agileits-banner-info-W h3, .agileits-banner-info-X h3, .agileits-banner-info-Y h3, .agileits-banner-info-Z h3 {
     font-size: 15em;
   }
@@ -1646,15 +1634,15 @@ i.fa.fa-quote-right {
   .w3layouts-logo h1 a {
     font-size: 1em;
   }
-  .agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
-    padding: 19em 0 3em;
-  }
   .agileits-banner-info-A h4, .agileits-banner-info-B h4, .agileits-banner-info-C h4, .agileits-banner-info-D h4, .agileits-banner-info-E h4, .agileits-banner-info-F h4, .agileits-banner-info-G h4, .agileits-banner-info-H h4, .agileits-banner-info-I h4, .agileits-banner-info-K h4, .agileits-banner-info-L h4, .agileits-banner-info-M h4, .agileits-banner-info-N h4, .agileits-banner-info-O h4, .agileits-banner-info-P h4, .agileits-banner-info-R h4, .agileits-banner-info-S h4, .agileits-banner-info-T h4, .agileits-banner-info-U h4, .agileits-banner-info-V h4, .agileits-banner-info-W h4, .agileits-banner-info-X h4, .agileits-banner-info-Y h4, .agileits-banner-info-Z h4 {
     letter-spacing: 9px;
     top: 57%;
   }
   .agileits-banner-info-A h3, .agileits-banner-info-B h3, .agileits-banner-info-C h3, .agileits-banner-info-D h3, .agileits-banner-info-E h3, .agileits-banner-info-F h3, .agileits-banner-info-G h3, .agileits-banner-info-H h3, .agileits-banner-info-I h3, .agileits-banner-info-K h3, .agileits-banner-info-L h3, .agileits-banner-info-M h3, .agileits-banner-info-N h3, .agileits-banner-info-O h3, .agileits-banner-info-P h3, .agileits-banner-info-R h3, .agileits-banner-info-S h3, .agileits-banner-info-T h3, .agileits-banner-info-U h3, .agileits-banner-info-V h3, .agileits-banner-info-W h3, .agileits-banner-info-X h3, .agileits-banner-info-Y h3, .agileits-banner-info-Z h3 {
     font-size: 13em;
+  }
+  .agileits-banner-info-A, .agileits-banner-info-B {
+    padding: 10em 0 3em;
   }
   .callbacks_tabs {
     left: 38%;
@@ -1703,9 +1691,6 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:384px) {
-  .agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
-    padding: 16.5em 0 3em;
-  }
   .agile-news-img {
     width: 100%;
     float: none;
@@ -1746,14 +1731,11 @@ i.fa.fa-quote-right {
   .header-right {
     margin: 1em 0 0 0;
   }
-  .agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
-    padding: 16.5em 0 1em;
-  }
   .agileits-banner-info-A h3, .agileits-banner-info-B h3, .agileits-banner-info-C h3, .agileits-banner-info-D h3, .agileits-banner-info-E h3, .agileits-banner-info-F h3, .agileits-banner-info-G h3, .agileits-banner-info-H h3, .agileits-banner-info-I h3, .agileits-banner-info-J h3, .agileits-banner-info-K h3, .agileits-banner-info-L h3, .agileits-banner-info-M h3, .agileits-banner-info-N h3, .agileits-banner-info-O h3, .agileits-banner-info-P h3, .agileits-banner-info-R h3, .agileits-banner-info-S h3, .agileits-banner-info-T h3, .agileits-banner-info-U h3, .agileits-banner-info-V h3, .agileits-banner-info-W h3, .agileits-banner-info-X h3, .agileits-banner-info-Y h3, .agileits-banner-info-Z h3 {
     font-size: 10em;
   }
   .agileits-banner-info-A h4, .agileits-banner-info-B h4, .agileits-banner-info-C h4, .agileits-banner-info-D h4, .agileits-banner-info-E h4, .agileits-banner-info-F h4, .agileits-banner-info-G h4, .agileits-banner-info-H h4, .agileits-banner-info-I h4, .agileits-banner-info-J h4, .agileits-banner-info-K h4, .agileits-banner-info-L h4, .agileits-banner-info-M h4, .agileits-banner-info-N h4, .agileits-banner-info-O h4, .agileits-banner-info-P h4, .agileits-banner-info-R h4, .agileits-banner-info-S h4, .agileits-banner-info-T h4, .agileits-banner-info-U h4, .agileits-banner-info-V h4, .agileits-banner-info-W h4, .agileits-banner-info-X h4, .agileits-banner-info-Y h4, .agileits-banner-info-Z h4 {
-    top: 54%;
+    top: 64%;
     font-size: 2em;
   }
   .callbacks_tabs {
