@@ -1205,19 +1205,7 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:991px) {
-  .agileits-banner-info h3 {
-    font-size: 30em;
-  }
-  .agileits-banner-info1 h3 {
-    font-size: 30em;
-  }
-  .agileits-banner-info2 h3 {
-    font-size: 30em;
-  }
-  .agileits-banner-info3 h3 {
-    font-size: 30em;
-  }
-  .agileits-banner-info4 h3 {
+  .agileits-banner-info-A h3, .agileits-banner-info-B h3 {
     font-size: 30em;
   }
   .w3ls-about-info p {
@@ -1279,7 +1267,7 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:800px) {
-  .agileits-banner-info h4, .agileits-banner-info1 h4, .agileits-banner-info2 h4, .agileits-banner-info3 h4, .agileits-banner-info4 h4 {
+  .agileits-banner-info-A h4, .agileits-banner-info-B h4 {
     font-size: 6em;
   }
   .callbacks_tabs {
@@ -1307,10 +1295,10 @@ i.fa.fa-quote-right {
     background: #4dd0e1;
     z-index: 9991;
   }
-  .agileits-banner-info, .agileits-banner-info1, .agileits-banner-info2, .agileits-banner-info3, .agileits-banner-info4 {
+  .agileits-banner-info-A, .agileits-banner-info-B {
     padding: 12em 0 5em;
   }
-  .agileits-banner-info h4, .agileits-banner-info1 h4, .agileits-banner-info2 h4, .agileits-banner-info3 h4, .agileits-banner-info4 h4 {
+  .agileits-banner-info-A h4, .agileits-banner-info-B h4 {
     font-size: 5em;
   }
   .agile-news-img {
@@ -1347,47 +1335,8 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:640px) {
-  .agileits-banner-info h3,.agileits-banner-info1 h3,.agileits-banner-info2 h3,.agileits-banner-info3 h3,.agileits-banner-info4 h3 {
+  .agileits-banner-info-A h3, .agileits-banner-info-B h3 {
     font-size: 20em;
-  }
-  .agileits-banner-info h4, .agileits-banner-info1 h4, .agileits-banner-info2 h4, .agileits-banner-info3 h4, .agileits-banner-info4 h4 {
-    font-size: 4em;
-  }
-  .agileits-banner-info h3 {
-    color: #4DD0E1;
-    margin: 0;
-    line-height: .8em;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent), url(../images/1a.jpg) repeat -233px -120px;
-    background: -o-linear-gradient(transparent, transparent);
-    -webkit-background-clip: text;
-  }
-  .agileits-banner-info4 h3 {
-    color: #4DD0E1;
-    margin: 0;
-    line-height: .8em;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent), url(../images/5a.jpg) repeat -290px -220px;
-    background: -o-linear-gradient(transparent, transparent);
-    -webkit-background-clip: text;
-  }
-  .agileits-banner-info3 h3 {
-    color: #4DD0E1;
-    margin: 0;
-    line-height: .8em;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent), url(../images/4a.jpg) repeat -337px -221px;
-    background: -o-linear-gradient(transparent, transparent);
-    -webkit-background-clip: text;
   }
   .flip-container, .back {
     height: 401px;
@@ -1425,10 +1374,10 @@ i.fa.fa-quote-right {
   }
 }
 @media(max-width:480px) {
-  .agileits-banner-info h3, .agileits-banner-info1 h3, .agileits-banner-info2 h3, .agileits-banner-info3 h3, .agileits-banner-info4 h3 {
+  .agileits-banner-info-A h3, .agileits-banner-info-B h3 {
     font-size: 15em;
   }
-  .agileits-banner-info h4, .agileits-banner-info1 h4, .agileits-banner-info2 h4, .agileits-banner-info3 h4, .agileits-banner-info4 h4 {
+  .agileits-banner-info-A h4, .agileits-banner-info-B h4 {
     font-size: 3em;
   }
   .callbacks_tabs {
@@ -1466,14 +1415,14 @@ i.fa.fa-quote-right {
   .w3layouts-logo h1 a {
     font-size: 1em;
   }
-  .agileits-banner-info h4, .agileits-banner-info1 h4, .agileits-banner-info2 h4, .agileits-banner-info3 h4, .agileits-banner-info4 h4 {
+  .agileits-banner-info-A h4, .agileits-banner-info-B h4 {
     letter-spacing: 9px;
     top: 57%;
   }
-  .agileits-banner-info h3, .agileits-banner-info1 h3, .agileits-banner-info2 h3, .agileits-banner-info3 h3, .agileits-banner-info4 h3 {
+  .agileits-banner-info-A h3, .agileits-banner-info-B h3 {
     font-size: 13em;
   }
-  .agileits-banner-info, .agileits-banner-info1, .agileits-banner-info2, .agileits-banner-info3, .agileits-banner-info4 {
+  .agileits-banner-info-A, .agileits-banner-info-B {
     padding: 10em 0 3em;
   }
   .callbacks_tabs {
@@ -1508,42 +1457,6 @@ i.fa.fa-quote-right {
   }
   .w3-agile-address-left {
     width: 20%;
-  }
-  .agileits-banner-info2 h3 {
-    color: #4DD0E1;
-    margin: 0;
-    line-height: .8em;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent), url(../images/3a.jpg) repeat -276px -339px;
-    background: -o-linear-gradient(transparent, transparent);
-    -webkit-background-clip: text;
-  }
-  .agileits-banner-info3 h3 {
-    color: #4DD0E1;
-    margin: 0;
-    line-height: .8em;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent), url(../images/4a.jpg) repeat -438px -311px;
-    background: -o-linear-gradient(transparent, transparent);
-    -webkit-background-clip: text;
-  }
-  .agileits-banner-info4 h3 {
-    color: #4DD0E1;
-    margin: 0;
-    line-height: .8em;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent), url(../images/5a.jpg) repeat -426px -253px;
-    background: -o-linear-gradient(transparent, transparent);
-    -webkit-background-clip: text;
   }
   .contact-form input[type="text"], .contact-form input[type="email"] {
     width: 100%;
@@ -1599,10 +1512,10 @@ i.fa.fa-quote-right {
   .header-right {
     margin: 1em 0 0 0;
   }
-  .agileits-banner-info h3, .agileits-banner-info1 h3, .agileits-banner-info2 h3, .agileits-banner-info3 h3, .agileits-banner-info4 h3 {
+  .agileits-banner-info-A h3, .agileits-banner-info-B h3 {
     font-size: 10em;
   }
-  .agileits-banner-info h4, .agileits-banner-info1 h4, .agileits-banner-info2 h4, .agileits-banner-info3 h4, .agileits-banner-info4 h4 {
+  .agileits-banner-info-A h4, .agileits-banner-info-B h4 {
     top: 64%;
     font-size: 2em;
   }
