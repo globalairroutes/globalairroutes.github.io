@@ -21,18 +21,6 @@ body {
   background: url(../images/2.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
-.w3layouts-banner-top2 {
-  background: url(../images/3.jpg) no-repeat 0px 0px;
-  background-size: cover;
-}
-.w3layouts-banner-top3 {
-  background: url(../images/4.jpg) no-repeat 0px 0px;
-  background-size: cover;
-}
-.w3layouts-banner-top4 {
-  background: url(../images/5.jpg) no-repeat 0px 0px;
-  background-size: cover;
-}
 /*-- //banner-top --*/
 /*-- banner --*/
 .banner {
@@ -232,25 +220,7 @@ ul.dropdown-menu li {
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
-.agileits-banner-info2 h3 {
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent), url(../images/3a.jpg) repeat 0px 0px;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
-}
-.agileits-banner-info3 h3 {
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent), url(../images/4a.jpg) repeat -144px -107px;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
-}
-.agileits-banner-info4 h3 {
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent), url(../images/5a.jpg) repeat 0px 0px;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
-}
-.agileits-banner-info h4,.agileits-banner-info1 h4,.agileits-banner-info2 h4,.agileits-banner-info3 h4,.agileits-banner-info4 h4 {
+.agileits-banner-info h4,.agileits-banner-info1 h4 {
   color: #FFFFFF;
   font-size: 7em;
   margin: 0;
