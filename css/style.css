@@ -21,6 +21,102 @@ body {
   background: url(../images/slideshow/BB.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
+.w3layouts-banner-top-C {
+  background: url(../images/slideshow/CC.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-D {
+  background: url(../images/slideshow/DD.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-E {
+  background: url(../images/slideshow/EE.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-F {
+  background: url(../images/slideshow/FF.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-G {
+  background: url(../images/slideshow/GG.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-H {
+  background: url(../images/slideshow/HH.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-I {
+  background: url(../images/slideshow/II.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-J {
+  background: url(../images/slideshow/JJ.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-K {
+  background: url(../images/slideshow/KK.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-L {
+  background: url(../images/slideshow/LL.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-M {
+  background: url(../images/slideshow/MM.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-N {
+  background: url(../images/slideshow/NN.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-O {
+  background: url(../images/slideshow/OO.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-P {
+  background: url(../images/slideshow/PP.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-Q {
+  background: url(../images/slideshow/QQ.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-R {
+  background: url(../images/slideshow/RR.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-S {
+  background: url(../images/slideshow/SS.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-T {
+  background: url(../images/slideshow/TT.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-U {
+  background: url(../images/slideshow/UU.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-V {
+  background: url(../images/slideshow/VV.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-W {
+  background: url(../images/slideshow/WW.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-X {
+  background: url(../images/slideshow/XX.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-Y {
+  background: url(../images/slideshow/YY.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.w3layouts-banner-top-Z {
+  background: url(../images/slideshow/ZZ.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
 /*-- //banner-top --*/
 /*-- banner --*/
 .banner {
@@ -195,11 +291,11 @@ ul.dropdown-menu li {
 .w3layouts-banner-slider {
   margin: 8em 0;
 }
-.agileits-banner-info-A,.agileits-banner-info-B {
+.agileits-banner-info-A, .agileits-banner-info-B, .agileits-banner-info-C, .agileits-banner-info-D, .agileits-banner-info-E, .agileits-banner-info-F, .agileits-banner-info-G, .agileits-banner-info-H, .agileits-banner-info-I, .agileits-banner-info-J, .agileits-banner-info-K, .agileits-banner-info-L, .agileits-banner-info-M, .agileits-banner-info-N, .agileits-banner-info-O, .agileits-banner-info-P, .agileits-banner-info-Q, .agileits-banner-info-R, .agileits-banner-info-S, .agileits-banner-info-T, .agileits-banner-info-U, .agileits-banner-info-V, .agileits-banner-info-W, .agileits-banner-info-X, .agileits-banner-info-Y, .agileits-banner-info-Z {
   text-align: center;
   padding: 15em 0 7em;
 }
-.agileits-banner-info-A h3,.agileits-banner-info-B h3 {
+.agileits-banner-info-A h3, .agileits-banner-info-B h3, .agileits-banner-info-C h3, .agileits-banner-info-D h3, .agileits-banner-info-E h3, .agileits-banner-info-F h3, .agileits-banner-info-G h3, .agileits-banner-info-H h3, .agileits-banner-info-I h3, .agileits-banner-info-J h3, .agileits-banner-info-K h3, .agileits-banner-info-L h3, .agileits-banner-info-M h3, .agileits-banner-info-N h3, .agileits-banner-info-O h3, .agileits-banner-info-P h3, .agileits-banner-info-Q h3, .agileits-banner-info-R h3, .agileits-banner-info-S h3, .agileits-banner-info-T h3, .agileits-banner-info-U h3, .agileits-banner-info-V h3, .agileits-banner-info-W h3, .agileits-banner-info-X h3, .agileits-banner-info-Y h3, .agileits-banner-info-Z h3 {
   color: #4DD0E1;
   font-size: 35em;
   margin: 0;
@@ -220,8 +316,151 @@ ul.dropdown-menu li {
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 }
-
-.agileits-banner-info-A h4,.agileits-banner-info-B h4 {
+.agileits-banner-info-C h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/C.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-D h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/D.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-E h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/E.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-F h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/F.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-G h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/G.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-H h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/H.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-I h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/I.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-J h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/J.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-K h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/K.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-L h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/L.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-M h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/M.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-N h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/N.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-O h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/O.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-P h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/P.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-Q h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/Q.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-R h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/R.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-S h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/S.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-T h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/T.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-U h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/U.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-V h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/V.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-W h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/W.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-X h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/X.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-Y h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/Y.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-Z h3 {
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent), url(../images/slideshow/Z.jpg) repeat 0px 0px;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+.agileits-banner-info-A h4, .agileits-banner-info-B h4, .agileits-banner-info-C h4, .agileits-banner-info-D h4, .agileits-banner-info-E h4, .agileits-banner-info-F h4, .agileits-banner-info-G h4, .agileits-banner-info-H h4, .agileits-banner-info-I h4, .agileits-banner-info-J h4, .agileits-banner-info-K h4, .agileits-banner-info-L h4, .agileits-banner-info-M h4, .agileits-banner-info-N h4, .agileits-banner-info-O h4, .agileits-banner-info-P h4, .agileits-banner-info-Q h4, .agileits-banner-info-R h4, .agileits-banner-info-S h4, .agileits-banner-info-T h4, .agileits-banner-info-U h4, .agileits-banner-info-V h4, .agileits-banner-info-W h4, .agileits-banner-info-X h4, .agileits-banner-info-Y h4, .agileits-banner-info-Z h4 {
   color: #FFFFFF;
   font-size: 7em;
   margin: 0;
