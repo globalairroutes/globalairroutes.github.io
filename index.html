@@ -450,10 +450,10 @@
         </div>
         <div class="wthree-news-grids">
           <div class="col-md-6 agile-news-right-info">
-            <div class="col-sm-4 agile-news-img">
+            <div class="col-sm-4 agile-news-img1" id="agile-news-img1">
 
             </div>
-            <div class="col-sm-8 agile-news-img-info">
+            <div class="col-sm-8 agile-news-img-info" id="agile-news-img-info1">
               <h5>Lorem ipsum dolor</h5>
               <div class="agileits-w3layouts-border"> </div>
               <p>Sed accumsan nisl ut ex fermentum, eget sodales eros elementum. Curabitur dapibus placerat quam in vehicula. Morbi fermentum sodales varius.</p>
@@ -462,10 +462,10 @@
             <div class="clearfix"> </div>
           </div>
           <div class="col-md-6 agile-news-right-info">
-            <div class="col-sm-4 agile-news-img agile-news-img1">
+            <div class="col-sm-4 agile-news-img2" id="agile-news-img2">
 
             </div>
-            <div class="col-sm-8 agile-news-img-info">
+            <div class="col-sm-8 agile-news-img-info" id="agile-news-img-info2">
               <h5>Lorem ipsum dolor</h5>
               <div class="agileits-w3layouts-border"> </div>
               <p>Nunc ornare a quam et tincidunt. Aliquam et magna id lectus egestas sollicitudin. Quisque sed rhoncus magna. Morbi a orci mi.</p>
@@ -900,6 +900,12 @@
     </div>
   </div>
   <!-- //footer -->
+  <script>
+    $( document ).ready(function() {
+      $("#agile-news-img1").height($("#agile-news-img-info1").outerHeight());
+      $("#agile-news-img2").height($("#agile-news-img-info2").outerHeight());
+    });
+  </script>
   <script src="js/responsiveslides.min.js"></script>
   <script src="js/SmoothScroll.min.js"></script>
   <script type="text/javascript" src="js/move-top.js"></script>

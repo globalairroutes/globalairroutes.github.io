@@ -890,12 +890,11 @@ i.fa.fa-quote-right {
 .agile-news-right-info {
   padding-right: 0;
 }
-.agile-news-img {
+.agile-news-img1 {
   background: url(../images/n1.jpg) no-repeat -64px 0px;
   background-size: cover;
-  min-height: 300px;
 }
-.agile-news-img1 {
+.agile-news-img2 {
   background: url(../images/n2.jpg) no-repeat -230px 0px !important;
   background-size: cover;
 }
